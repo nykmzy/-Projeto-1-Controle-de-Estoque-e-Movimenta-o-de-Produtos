@@ -1,5 +1,5 @@
 # Projeto 1 - Controle de estoque e movimentação de produtos
-![Estoque Atual](graficos/estoque_atual.png)
+![Estoque Atual](graficos/print_estoque_atual.png)
 
 ## 📋 Sobre o Projeto
 
